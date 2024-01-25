@@ -1,0 +1,15 @@
+REUD
+
+Create(Ui)
+
+Read(Ui)
+
+Update(Ui)
+
+Delete(Ui no)
+
+
+
+factory -> seeder -> database seeder
+
+seeder -> database seeder
